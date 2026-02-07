@@ -1,0 +1,14 @@
+$ next dev
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.0.21:3000
+
+✓ Starting...
+✓ Ready in 1083ms
+○ Compiling / ...
+ GET / 200 in 4.2s (compile: 4.0s, render: 230ms)
+ GET / 200 in 127ms (compile: 67ms, render: 60ms)
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Compiled in 0ms
+ GET / 200 in 276ms (compile: 67ms, render: 210ms)
+ GET / 200 in 203ms (compile: 3ms, render: 201ms)

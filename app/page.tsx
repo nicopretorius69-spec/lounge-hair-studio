@@ -115,9 +115,9 @@ export default function Home() {
             <Image
               src="/images/logo.png"
               alt="Lounge Hair Studio by Chante"
-              width={280}
-              height={140}
-              className="w-64 h-32"
+              width={320}
+              height={160}
+              className="w-80 h-40 md:w-96 md:h-48"
               priority
             />
           </div>
